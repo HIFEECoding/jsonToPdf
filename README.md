@@ -3,7 +3,7 @@ Voici les étapes à suivre pour tester la solution de conversion en masse de JS
     1. Installer NodeJS (v12 ou +) du site https://nodejs.org/en/
 
     2. Installer le package HackMyResume en global sur votre machine :
-	 	npm install hackmyresume –g
+	 	npm install –g hackmyresume 
     3. Installer l’outil wkhtmltopdf  https://wkhtmltopdf.org/downloads.html
 		et ajouter une variable d’environnement : (exemple)
 		C:/Program Files/wkhtmltopdf/bin
