@@ -1,0 +1,59 @@
+{
+  "_args": [
+    [
+      "jsonresume-theme-kendall@0.2.0",
+      "/home/wajdi/Desktop/HackMyResume"
+    ]
+  ],
+  "_from": "jsonresume-theme-kendall@0.2.0",
+  "_id": "jsonresume-theme-kendall@0.2.0",
+  "_inBundle": false,
+  "_integrity": "sha512-K925MVtKXd2W8XbnR5/MzgO6c7wObyTPdjics9xmMDUW3xK3051IOIIVEyv+lIseEW3lOmm2yun9gLtJwVr1mA==",
+  "_location": "/jsonresume-theme-kendall",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "jsonresume-theme-kendall@0.2.0",
+    "name": "jsonresume-theme-kendall",
+    "escapedName": "jsonresume-theme-kendall",
+    "rawSpec": "0.2.0",
+    "saveSpec": null,
+    "fetchSpec": "0.2.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/jsonresume-theme-kendall/-/jsonresume-theme-kendall-0.2.0.tgz",
+  "_spec": "0.2.0",
+  "_where": "/home/wajdi/Desktop/HackMyResume",
+  "author": {
+    "name": "M. Adam Kendall"
+  },
+  "bugs": {
+    "url": "https://github.com/linuxbozo/jsonresume-theme-kendall/issues"
+  },
+  "dependencies": {
+    "gravatar": "^1.0.6",
+    "lodash": "^4.17.20",
+    "mustache": "^2.2.1"
+  },
+  "description": "A JSON Resume theme built with bootstrap",
+  "homepage": "https://github.com/linuxbozo/jsonresume-theme-kendall",
+  "keywords": [
+    "json",
+    "jsonresume",
+    "theme"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "jsonresume-theme-kendall",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linuxbozo/jsonresume-theme-kendall.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.2.0"
+}

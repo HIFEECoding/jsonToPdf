@@ -8,7 +8,7 @@ const paths = require('./paths');
 
 const inputFolder = paths.inputDirectory
 const outputFolder = paths.outputDirectory
-const template = 'node_modules/jsonresume-theme-kendall'
+const template = 'assets/custumized-kendal'
 let workbook = new Excel.Workbook()
 let worksheet = workbook.addWorksheet('Debtors')
 
@@ -18,7 +18,7 @@ initExcelFile();
 // LISTENING to dir
 chokidar.watch('.')
     .on('add', function (path) {
-        if (path.startsWith(`${inputFolder}/`)) {
+        if (path.startsWith(`${inputFolder}`)) {
             let file = path.slice(inputFolder.length + 1)
             let fileName = file.slice(0, file.lastIndexOf('.'))
 
