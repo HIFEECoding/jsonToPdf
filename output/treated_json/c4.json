@@ -1,0 +1,80 @@
+{
+  "basics": {
+    "name": "Khedhri Nader",
+    "label": "iOS Developer in TechNetMedia",
+    "picture": "",
+    "email": "",
+    "phone": "",
+    "website": "",
+    "summary": "",
+    "location": {
+      "countryCode": "FR",
+      "address": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "khedhri-nader-bb472b134",
+        "url": "https://www.linkedin.com/in/khedhri-nader-bb472b134/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "iOS Developer, TechNetMedia",
+      "endDate": "",
+      "highlights": [],
+      "startDate": "2015-01-31",
+      "website": ""
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Institut supérieur d’informatique ISI",
+      "area": "",
+      "studyType": "National Diploma in Computer Engineering",
+      "startDate": "",
+      "endDate": "2014-12-31",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "iOS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Objective-C",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "swift",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Android",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "WatchOS",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "fr",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [],
+  "references": []
+}

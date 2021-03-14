@@ -1,0 +1,305 @@
+{
+  "basics": {
+    "name": "Sadok Mourad MHIRI",
+    "label": "Front-end developer Angular/React at Proxym",
+    "picture": "",
+    "email": "",
+    "phone": "",
+    "website": "",
+    "summary": "Développeur Web chez Proxym-Group",
+    "location": {
+      "countryCode": "FR",
+      "address": "Tunisie"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "sadok-mourad-mhiri-02943b137",
+        "url": "https://www.linkedin.com/in/sadok-mourad-mhiri-02943b137/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Proxym Group",
+      "endDate": "",
+      "highlights": [],
+      "position": "Développeur web",
+      "startDate": "2019-09-30",
+      "summary": null,
+      "website": "https://www.linkedin.com/company/512698"
+    },
+    {
+      "company": "Instance Supérieure Indépendante pour les Élections",
+      "endDate": "2019-10-31",
+      "highlights": [],
+      "position": "Membre de bureau de vote",
+      "startDate": "2019-10-31",
+      "summary": "Dans le cadre de l'élection législative TUNISIE 2019",
+      "website": "https://www.linkedin.com/company/5303783"
+    },
+    {
+      "company": "Instance Supérieure Indépendante pour les Élections",
+      "endDate": "2019-10-31",
+      "highlights": [],
+      "position": "Membre de bureau de vote ",
+      "startDate": "2019-10-31",
+      "summary": "Dans le cadre de l'élection présidentielle TUNISIE 2019",
+      "website": "https://www.linkedin.com/company/5303783"
+    },
+    {
+      "company": "Instance Supérieure Indépendante pour les Élections",
+      "endDate": "2019-09-30",
+      "highlights": [],
+      "position": "Membre de bureau de vote",
+      "startDate": "2019-09-30",
+      "summary": "Dans le cadre de l'élection présidentielle TUNISIE 2019",
+      "website": "https://www.linkedin.com/company/5303783"
+    },
+    {
+      "company": "ISP",
+      "endDate": "2019-05-31",
+      "highlights": [],
+      "position": "Stage développement web",
+      "startDate": "2019-02-28",
+      "summary": null,
+      "website": "https://www.linkedin.com/company/11097953"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Université de Sousse",
+      "area": "Administration et gestion de l''informatique / technologies de l''information",
+      "studyType": "Licence ",
+      "startDate": "2016-12-31",
+      "endDate": "2019-12-31",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Free Code Camp",
+      "area": "",
+      "studyType": "",
+      "startDate": "2017-12-31",
+      "endDate": "2018-12-31",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "EPI - International Multidisciplinary School",
+      "area": "Informatique",
+      "studyType": "ingénierie ",
+      "startDate": "2019-12-31",
+      "endDate": "2022-12-31",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Institut Supérieur de Gestion de Sousse",
+      "area": "Informatique",
+      "studyType": "Licence fondamentale En Informatique de Gestion",
+      "startDate": "2016-12-31",
+      "endDate": "2019-12-31",
+      "gpa": "14.69",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "React.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "angular",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Node.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Scrum",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "mongoose",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Sass",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Adobe Photoshop",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Arabe",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "UML",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Visual Basic .NET (VB.NET)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MySQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Express.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Java",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Excel",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ngrx",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "TypeScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Redux.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Français",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MEAN Stack",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "XML",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Anglais",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Word",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "kibana",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Docker",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML5",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft PowerPoint",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Bootstrap",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "css",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Merise",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JSON",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MongoDB",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Android",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "fr",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [],
+  "references": []
+}

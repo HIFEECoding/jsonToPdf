@@ -1,0 +1,268 @@
+{
+  "basics": {
+    "name": "Jihen Belabed",
+    "label": "PHP Developer at Talan",
+    "picture": "",
+    "email": "",
+    "phone": "",
+    "website": "",
+    "summary": "",
+    "location": {
+      "countryCode": "US",
+      "address": "Sousse Riadh, Sousse Governorate, Tunisia"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "jihen-belabed-054125136",
+        "url": "https://www.linkedin.com/in/jihen-belabed-054125136/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Talan",
+      "endDate": "",
+      "highlights": [],
+      "position": "PHP Developer",
+      "startDate": "2019-03-31",
+      "website": "https://www.linkedin.com/company/talan/"
+    },
+    {
+      "company": "Go My Code",
+      "endDate": "2019-03-31",
+      "highlights": [],
+      "position": "Instructor and developer full-stack JS ",
+      "startDate": "2019-01-31",
+      "website": "https://www.linkedin.com/school/go-my-code/"
+    },
+    {
+      "company": "Go My Code",
+      "endDate": "2018-12-31",
+      "highlights": [],
+      "position": "Full-stack Developer PHP Symfony Junior",
+      "startDate": "2018-10-31",
+      "summary": "Intensive program : full time coding",
+      "website": "https://www.linkedin.com/school/go-my-code/"
+    },
+    {
+      "company": "UNIMED laboratories, pharmaceutical industry",
+      "endDate": "2018-07-31",
+      "highlights": [],
+      "position": "Graduation project internship",
+      "startDate": "2018-02-28",
+      "summary": "Optimization and validation of a dosing method of ethanol by gas chromatography.",
+      "website": ""
+    },
+    {
+      "company": "UNIMED laboratories,  pharmaceutical industry",
+      "endDate": "2017-07-31",
+      "highlights": [],
+      "position": "ENGINEER Internship: R&D Services",
+      "startDate": "2017-06-30",
+      "summary": "• Stability testing of new medicament.\n• Formulation and development of protocols for monitoring\nfor a new pharmaceutical product.",
+      "website": ""
+    },
+    {
+      "company": "Société Nationale d'Exploitation et de Distribution des Eaux (SONEDE)",
+      "endDate": "2016-09-30",
+      "highlights": [],
+      "position": "Internship",
+      "startDate": "2016-08-31",
+      "summary": "• Control, treatment and analysis of drinking-water.",
+      "website": ""
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Hult Prize à campus ElManar",
+      "position": "Organisation",
+      "website": "",
+      "startDate": "2016-12-31",
+      "endDate": "2016-12-31",
+      "summary": null,
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Faculty of Sciences of Tunis",
+      "area": "Analytical chemistry and instrumentation Engineer",
+      "studyType": "Engineer’s Degree",
+      "startDate": "2015-12-31",
+      "endDate": "",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Preparatory Institute for Engineering Studies of Monastir (IPEIM)",
+      "area": "",
+      "studyType": "Engineer courses acess, Mathematics and Physics, succeed in the contest: rank: 559/1700",
+      "startDate": "2013-12-31",
+      "endDate": "2015-12-31",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Ibn Rochd Sousse High school ",
+      "area": "",
+      "studyType": "Baccalaureat Mathematics, Obtained bachelor's degree",
+      "startDate": "2013-12-31",
+      "endDate": "",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Symfony Framework",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PHP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Spectroscopy",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Go My Code",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Metrology",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Thermodynamics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Leadership",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Autonomy",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Pharmaceutical",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Energetic",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Electrochemistry",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Punctuality",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "R",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Teamwork",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Chromatography",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML5",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "English",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Matlab",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Chemometrics",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MySQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "French",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CSS3",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Integration",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "en",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [],
+  "references": []
+}

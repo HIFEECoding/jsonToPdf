@@ -9,7 +9,7 @@ var fs = require('fs');
 
 const inputFolder = paths.inputDirectory
 const outputFolder = paths.outputDirectory
-const template = 'assets/custumized-kendal'
+const template = 'assets/jsonresume-theme-papirus-master'
 let workbook = new Excel.Workbook()
 let worksheet = workbook.addWorksheet('Debtors')
 
@@ -44,7 +44,10 @@ chokidar.watch('.')
 
 
             exec(`hackmyresume build ./${inputFolder}/${file} TO ${outputFolder}/${fileName}.pdf -t ${template}`, (err, stdout, stderr) => {
-
+                if (hasSpaces(file)) {                 
+                    file = newFile;
+                    fileName = fileName.replace(/ /g, "_");
+                }                
                 if (err) {
                     console.error(`An error occurred: ${err.message}`);
                     return;

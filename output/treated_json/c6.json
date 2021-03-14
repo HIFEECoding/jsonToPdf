@@ -1,0 +1,162 @@
+{
+  "basics": {
+    "name": "Mehdi Ghalleb",
+    "label": "iOS Developer at Digit-U",
+    "picture": "",
+    "email": "",
+    "phone": "",
+    "website": "",
+    "summary": "",
+    "location": {
+      "countryCode": "FR",
+      "address": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "mehdi-ghalleb-aa8081159",
+        "url": "https://www.linkedin.com/in/mehdi-ghalleb-aa8081159/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Digit-U",
+      "endDate": "",
+      "highlights": [],
+      "startDate": "2020-01-31",
+      "website": "https://www.linkedin.com/company/digit-u-agence-digitale-en-tunisie/"
+    },
+    {
+      "company": "SEEMANTOV Tunisie",
+      "endDate": "2020-01-31",
+      "highlights": [],
+      "startDate": "2019-07-31",
+      "website": "https://www.linkedin.com/company/seemantov-tunisie/"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Ecole Supérieure Privée d'Ingénierie et de Technologies - ESPRIT",
+      "area": "Programmation informatique, applications spécifiques",
+      "studyType": "Diplôme d'ingénieur",
+      "startDate": "2015-12-31",
+      "endDate": "2020-12-31",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Java",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C#",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C++",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PHP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML5",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "sdl",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Gestion de projet",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "UML",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Unix",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Administration système Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MySQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Android",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Swift",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Framework Ionic",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Angular",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "React.js",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "fr",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [],
+  "references": [
+    {
+      "name": "slim touati",
+      "reference": "Mehdi and I have been colleagues for 5 years in a row. I had the chance to work with him in different projects from video games to websites to mobile apps. He is one of the smartest persons I've ever worked with and is definetely a huge boost to any project he would be put on."
+    }
+  ]
+}
