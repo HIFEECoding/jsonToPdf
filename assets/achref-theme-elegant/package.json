@@ -1,0 +1,90 @@
+{
+  "_from": "jsonresume-theme-elegant",
+  "_id": "jsonresume-theme-elegant@1.14.0",
+  "_inBundle": false,
+  "_integrity": "sha512-sMEhrlgXUMGzsfsE+cHpLPmGYs12ZGW4IeECnAT9C1yN6PCW1pN7GLGvuU7BQszII8qOF3n6gzf4C+7JdDnvng==",
+  "_location": "/jsonresume-theme-elegant",
+  "_phantomChildren": {
+    "asn1": "0.2.3",
+    "assert-plus": "1.0.0",
+    "bcrypt-pbkdf": "1.0.1",
+    "commander": "2.14.1",
+    "dashdash": "1.14.1",
+    "ecc-jsbn": "0.1.1",
+    "getpass": "0.1.7",
+    "jsbn": "0.1.1",
+    "lodash.get": "4.4.2",
+    "lodash.isequal": "4.5.0",
+    "neo-async": "2.6.2",
+    "safer-buffer": "2.1.2",
+    "tweetnacl": "0.14.5",
+    "validator": "12.2.0"
+  },
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "jsonresume-theme-elegant",
+    "name": "jsonresume-theme-elegant",
+    "escapedName": "jsonresume-theme-elegant",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/jsonresume-theme-elegant/-/jsonresume-theme-elegant-1.14.0.tgz",
+  "_shasum": "d951cabeef2f70e09c03b479589e8a472c855ce5",
+  "_spec": "jsonresume-theme-elegant",
+  "_where": "/home/wajdi/Desktop/jsonToPdf",
+  "author": {
+    "name": "Mudassir Ali",
+    "email": "mudassir.dev@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/mudassir0909/jsonresume-theme-elegant/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "gravatar": "^1.0.6",
+    "handlebars": ">=4.0.14",
+    "jsonresume-themeutils": "^1.4.3",
+    "markdown-it": "^6.0.1",
+    "markdown-it-abbr": "^1.0.3",
+    "moment": "^2.22.2",
+    "pug": "^2.0.4",
+    "resume-schema": "0.1.3",
+    "sshpk": ">=1.13.2",
+    "tarball-extract": "0.0.3",
+    "underscore": "^1.6.0"
+  },
+  "deprecated": false,
+  "description": "Elegant theme for jsonresume",
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-contrib-clean": "0.5.x",
+    "grunt-contrib-copy": "0.4.x",
+    "grunt-contrib-less": "^2.0.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-exec": "^0.4.6",
+    "less": "^3.8.1"
+  },
+  "homepage": "https://github.com/mudassir0909/jsonresume-theme-elegant",
+  "keywords": [
+    "jsonresume",
+    "theme",
+    "elegant"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "jsonresume-theme-elegant",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mudassir0909/jsonresume-theme-elegant.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.14.0"
+}

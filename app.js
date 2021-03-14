@@ -5,6 +5,7 @@ var chokidar = require('chokidar');
 const fse = require('fs-extra');
 const http = require('http');
 const paths = require('./paths');
+var fs = require('fs');
 
 const inputFolder = paths.inputDirectory
 const outputFolder = paths.outputDirectory
@@ -14,13 +15,33 @@ let worksheet = workbook.addWorksheet('Debtors')
 
 // Init excel file
 initExcelFile();
-
+function hasSpaces(str) {
+    if (str.indexOf(' ') !== -1) {
+        return true
+    } else {
+        return false
+    }
+}
 // LISTENING to dir
 chokidar.watch('.')
     .on('add', function (path) {
         if (path.startsWith(`${inputFolder}`)) {
-            let file = path.slice(inputFolder.length + 1)
-            let fileName = file.slice(0, file.lastIndexOf('.'))
+            let file = path.slice(inputFolder.length + 1);
+
+            let fileName = file.slice(0, file.lastIndexOf('.'));
+
+            console.log(file);
+            console.log(fileName);
+
+            if (hasSpaces(file)) {
+                let newFile = file.replace(/ /g, "_");
+                fs.rename(`./input/${file}`, `./input/${newFile}`, function (err) {
+                    if (err) console.log('ERROR: ' + err);
+                });
+                file = newFile;
+                fileName = fileName.replace(/ /g, "_");
+            }
+
 
             exec(`hackmyresume build ./${inputFolder}/${file} TO ${outputFolder}/${fileName}.pdf -t ${template}`, (err, stdout, stderr) => {
 
